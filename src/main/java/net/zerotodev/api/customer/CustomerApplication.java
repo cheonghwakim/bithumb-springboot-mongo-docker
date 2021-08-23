@@ -25,6 +25,5 @@ public class CustomerApplication implements CommandLineRunner {
 			System.out.println(customer);
 		}
 		System.out.println("=== 종료 ===");
-
 	}
 }
